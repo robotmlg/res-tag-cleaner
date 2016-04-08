@@ -7,6 +7,7 @@ Removes all non-tagged users from your
 2. Enter 'RESStorage update RESmodules.userTagger.tags'
 3. Copy the text in the box to a text file and save it
 4. Run the python script on the file
+5. Copy the text of the output file into the RES console box and click confirm to update your tags
 
 Usage: 
 ```
